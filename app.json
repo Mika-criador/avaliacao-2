@@ -1,4 +1,8 @@
 {
   "name": "filmes",
-  "slug": "filmes"
+  "slug": "filmes",
+  "plugins": [
+    "expo-sqlite",
+    "expo-router"
+  ]
 }
